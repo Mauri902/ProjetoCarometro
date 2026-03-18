@@ -2,3 +2,5 @@
 Projeto de um Carômetro Digital desenvolvido em Java com banco de dados MySQL. O sistema permite o cadastro de estudantes com upload de fotos e a geração de relatórios em PDF, facilitando a visualização e organização dos alunos cadastrados.  
 
 Autor: Mauricio Sena
+
+<img width="620" height="347" alt="Print Carometro" src="https://github.com/user-attachments/assets/490ac407-f978-47dd-ae79-474ef5deb185" />
